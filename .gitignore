@@ -1,0 +1,4 @@
+/vendor
+/resources
+*.env
+go_pos_backend
