@@ -1,3 +1,3 @@
 # POS backend project using go
 
-A simple pos backend project for practicing 
+A e-commerce backend server that handles authentication, menu updates, and customer orders.
